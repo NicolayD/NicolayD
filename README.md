@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Nikolay Dyulgerov 🌱
 
 <!--
 **NicolayD/NicolayD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<em>Software Enginner at <a href="https://honesoftware.com">Hone</a></em>
+
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NicolayD&show_icons=true&theme=tokyonight&hide_title=true" />
 
