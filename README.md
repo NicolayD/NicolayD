@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Software Enginner at <a href="https://honesoftware.com">Hone</a></h3>
-
-[![Linkedin: nikolay-dyulgerov-070bb2119](https://img.shields.io/badge/-nicolayd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolay-dyulgerov-070bb2119/)](https://www.linkedin.com/in/nikolay-dyulgerov-070bb2119/)
+<p>
+Software Enginner at <a href="https://honesoftware.com">Hone</a></h3> [![Linkedin: nikolay-dyulgerov-070bb2119](https://img.shields.io/badge/-nicolayd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolay-dyulgerov-070bb2119/)](https://www.linkedin.com/in/nikolay-dyulgerov-070bb2119/)
+</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NicolayD&show_icons=true&theme=tokyonight&hide_title=true" />
 
