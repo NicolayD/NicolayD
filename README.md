@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <em>Software Enginner at <a href="https://honesoftware.com">Hone</a></em>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NicolayD&show_icons=true&theme=tokyonight&hide_title=true" />
 
 I am a Bulgarian developer mainly doing web development with Ruby (Ruby on Rails) and Elixir (Phoenix).
