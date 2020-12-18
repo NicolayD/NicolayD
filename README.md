@@ -1,4 +1,4 @@
-### Hi, I'm Nikolay Dyulgerov 🌱
+<h1>Hi, I'm Nikolay Dyulgerov 🌱</h1>
 
 <!--
 **NicolayD/NicolayD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<em>Software Enginner at <a href="https://honesoftware.com">Hone</a></em>
+<h3>Software Enginner at <a href="https://honesoftware.com">Hone</a></h3>
 
 [![Linkedin: nikolay-dyulgerov-070bb2119](https://img.shields.io/badge/-nicolayd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolay-dyulgerov-070bb2119/)](https://www.linkedin.com/in/nikolay-dyulgerov-070bb2119/)
 
