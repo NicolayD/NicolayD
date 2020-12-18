@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <p>
   Software Enginner at <a href="https://honesoftware.com">Hone</a>
-</p>
-<p>
+
   <a href="https://www.linkedin.com/in/nikolay-dyulgerov-070bb2119/">
     <img align="right" src="https://img.shields.io/badge/-nicolayd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikolay-dyulgerov-070bb2119/" />
   </a>
